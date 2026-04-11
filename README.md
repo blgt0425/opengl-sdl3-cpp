@@ -11,7 +11,7 @@ You need these libraries installed:
 
 Download SDL3 from the official site:
 
-https://github.com/libsdl-org/SDL
+[https://github.com/libsdl-org/SDL](https://github.com/libsdl-org/SDL/releases/tag/release-3.4.4)
 
 Then:
 
